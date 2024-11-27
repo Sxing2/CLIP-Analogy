@@ -21,7 +21,7 @@ The main file implements the whole pipeline, including preprocessing of the targ
   ```shell script
   mkdir datasets
   ```
-  Download the raw dataset of ImageNet and put in under ./datasets.
+  Download the raw dataset of ImageNet and put it under ./datasets.
 
 ### Implement
 ```shell script
